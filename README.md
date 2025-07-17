@@ -1,5 +1,5 @@
 # Joseph Alex - Portfolio
-
+ 
 Welcome to my personal portfolio! This site showcases my skills, expertise, and journey as a Front-end Developer. Hosted on GitHub Pages, it reflects my passion for crafting intuitive, high-quality web experiences and my commitment to continuous growth in the dynamic field of software development.
 
 ## About Me
